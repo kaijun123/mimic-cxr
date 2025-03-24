@@ -1,0 +1,37 @@
+{
+  "lora-liuhaotian-llava-v1.5-7b-vision_tower-epoch-1-lr-0.0001-train_28k_custom-train-mlp-and-llm-unquantized-epoch-2-lr-6e-5": {
+    "precision": 0.686,
+    "recall": 0.6281,
+    "F1": 0.6534
+  },
+  "lora-microsoft-llava-med-v1.5-mistral-7b-train_28k_custom-train-mlp-and-llm-unquantized-epoch-3-lr-6e-5": {
+    "precision": 0.6914,
+    "recall": 0.6155,
+    "F1": 0.6493
+  },
+  "liuhaotian-llava-v1.5-7b": {
+    "precision": 0.4841,
+    "recall": 0.4639,
+    "F1": 0.473
+  },
+  "lora-microsoft-llava-med-v1.5-mistral-7b-train_28k_custom-train-mlp-and-llm-unquantized-epoch-2-lr-6e-5": {
+    "precision": 0.6899,
+    "recall": 0.6103,
+    "F1": 0.6457
+  },
+  "lora-llava-med-v1.5-mistral-7b-vision_tower-epoch-1-lr-0.0001-v2-train_28k_custom-train-mlp-and-llm-unquantized-epoch-1-lr-6e-5": {
+    "precision": 0.6689,
+    "recall": 0.5665,
+    "F1": 0.612
+  },
+  "llava-med-v1.5-mistral-7b": {
+    "precision": 0.5235,
+    "recall": 0.5151,
+    "F1": 0.5183
+  },
+  "lora-liuhaotian-llava-v1.5-7b-vision_tower-epoch-1-lr-0.0001-train_28k_custom-train-mlp-and-llm-unquantized-epoch-1-lr-6e-5": {
+    "precision": 0.6927,
+    "recall": 0.6234,
+    "F1": 0.654
+  }
+}

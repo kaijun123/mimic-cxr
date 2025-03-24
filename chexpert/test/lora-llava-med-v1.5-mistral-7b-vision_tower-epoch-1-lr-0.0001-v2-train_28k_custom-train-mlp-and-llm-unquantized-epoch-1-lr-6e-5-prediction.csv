@@ -1,0 +1,487 @@
+study_id,Reports,No Finding,Enlarged Cardiomediastinum,Cardiomegaly,Lung Lesion,Lung Opacity,Edema,Consolidation,Pneumonia,Atelectasis,Pneumothorax,Pleural Effusion,Pleural Other,Fracture,Support Devices
+50014127,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50016102,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50016413,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50037760,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50043351,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50049540,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50065890,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50124332,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50128467,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50141921,The patient is status post median sternotomy and cabg. The cardiac silhouette size is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pulmonary vascular congestion. Minimal atelectasis is noted in the lung bases without focal consolidation. No pleural effusion or pneumothorax is present. There are no acute osseous abnormalities.,2.0,0.0,1.0,2.0,2.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,2.0
+50170341,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50205123,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. There is no pleural effusion or pneumothorax. The lungs appear clear.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50225181,The cardiomediastinal and hilar contours are within normal limits. The lungs are clear. There is no pleural effusion or pneumothorax.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50247294,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50256977,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. There is no pleural effusion or pneumothorax. The lungs appear clear.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50297024,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50323020,The lungs are clear without focal consolidation. No pleural effusion or pneumothorax is seen. The cardiac and mediastinal silhouettes are unremarkable. No displaced fracture is seen.,1.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,2.0
+50371697,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50380203,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50382908,"The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50438261,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50453286,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50492868,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50533006,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50547182,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50610932,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The lungs are clear. There is no pleural effusion or pneumothorax.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50617748,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50620677,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50634232,"The patient is status post median sternotomy and cabg. The cardiac silhouette is mildly enlarged. The aorta is calcified and tortuous. There is mild pulmonary vascular congestion. No focal consolidation, pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.",2.0,2.0,1.0,2.0,2.0,-1.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50636786,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50664785,The heart is mildly enlarged. The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50677639,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50686747,"The lungs are clear without focal consolidation, pleural effusion or pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.",1.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50740166,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are well expanded and clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50740442,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50744319,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50744964,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50751429,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50752207,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50776901,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The lungs are clear. There is no pleural effusion or pneumothorax.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50790949,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50818829,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. There is no pleural effusion or pneumothorax. The lungs appear clear.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50844004,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50848970,"The cardiac silhouette is enlarged. The aorta is tortuous. There is mild pulmonary vascular congestion. No focal consolidation, pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.",2.0,2.0,1.0,2.0,2.0,-1.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50877377,"The lung volumes are low. The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50882034,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50891752,"The lungs are well expanded and clear. The cardiomediastinal silhouette, hilar contours, and pleural surfaces are normal. No pleural effusion or pneumothorax is present.",1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50906117,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50920770,"There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal.",1.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50949626,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50957430,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50969842,The lungs are clear. There is no pneumothorax or pleural effusion. The cardiomediastinal silhouette is normal.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+50981777,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+50989704,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51009376,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51017703,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51024049,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51034858,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51067581,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51074951,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51114398,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51144460,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51150576,The lungs are clear. There is no pneumothorax. The heart is normal in size. The mediastinum is not widened. The hilar contours are normal. There is no pleural effusion.,2.0,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51192088,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51210366,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51229977,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51233868,"The heart is mildly enlarged. The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lung volumes are low. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51264956,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51266767,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51274564,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51285349,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51322686,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51328698,The lungs are clear. There is no pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2.0
+51371355,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51398188,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51423353,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51435896,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51455625,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51473674,"The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The pulmonary vascularity is normal. Streaky opacities in the lung bases likely reflect atelectasis. No focal consolidation, pleural effusion or pneumothorax is present. There are no acute osseous abnormalities.",2.0,0.0,1.0,2.0,1.0,2.0,0.0,2.0,1.0,0.0,0.0,2.0,2.0,2.0
+51499550,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51513702,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51566590,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51615087,"The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51621424,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51634830,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51648837,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51657622,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51664945,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51719671,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51742525,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51749906,"The patient is status post median sternotomy and cabg. The cardiac, mediastinal and hilar contours appear unchanged. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51777321,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51808820,"The cardiac, mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.",1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51819517,The lungs are clear. There is no pneumothorax or pleural effusion. The cardiomediastinal silhouette is normal.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51830719,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51836430,"The heart size is normal. The hilar and mediastinal contours are within normal limits. There is no pneumothorax, focal consolidation, or pleural effusion.",1.0,0.0,0.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51863042,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51876627,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51877138,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51887095,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+51909919,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51912167,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+51946836,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52076561,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52081127,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52164077,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52170957,"The patient is status post median sternotomy and cabg. The cardiac silhouette is mildly enlarged. The aorta is calcified and tortuous. There is mild pulmonary vascular congestion. No focal consolidation, pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.",2.0,2.0,1.0,2.0,2.0,-1.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52189004,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52224512,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52244948,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52259319,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52268728,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52299675,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52307671,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52325695,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52391187,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52398109,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52404879,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52428322,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52470466,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52481016,"The lungs are well expanded and clear. The cardiomediastinal silhouette, hilar contours, and pleural surfaces are normal. There is no pleural effusion or pneumothorax.",1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52488909,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52514701,The lungs are clear. There is no pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,2.0
+52519155,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52543396,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52546911,"The heart is mildly enlarged. The aorta is tortuous. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52548008,"The heart size is normal. The hilar and mediastinal contours are within normal limits. There is no pneumothorax, focal consolidation, or pleural effusion. The visualized osseous structures are unremarkable.",1.0,0.0,0.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52552967,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52555178,The heart is mildly enlarged. The mediastinal and hilar contours are normal. The pulmonary vascularity is normal. Lungs are clear. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52559222,The lungs are clear. The cardiac silhouette is enlarged. The mediastinal silhouette and hilar contours are normal. There is no pleural effusion or pneumothorax.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52616494,The heart is mildly enlarged. The aorta is tortuous. The lungs are clear. There is no pneumothorax or pleural effusion.,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52630381,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52640725,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52697942,"The heart is mildly enlarged. The aorta is tortuous. There is no focal consolidation, pleural effusion, or pneumothorax. There is no pulmonary edema.",2.0,2.0,1.0,2.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52707748,"The patient is status post median sternotomy and cabg. The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52718973,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+52736852,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52798218,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52824884,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52834337,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52835225,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52874646,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52894975,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52920123,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52924835,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52937624,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52969052,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52971146,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+52987117,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+53035658,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53038366,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53128548,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53131726,The cardiomediastinal and hilar contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+53164365,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53276158,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+53282268,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53308168,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53339862,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. There is no pleural effusion or pneumothorax. The lungs appear clear.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+53349756,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53351384,The patient is status post right upper lobectomy. The right chest tube is in unchanged position. There is no pneumothorax. The right lung is well expanded and clear. The left lung is clear. The cardiomediastinal silhouette is unchanged.,2.0,-1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,2.0,1.0
+53357801,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53366281,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53391606,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are well expanded and clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+53403421,The cardiac silhouette is normal in size. The mediastinal and hilar contours are within normal limits. There is no pleural effusion or pneumothorax. The lungs are well expanded and clear.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+53405597,"The lungs are well expanded and clear. The cardiomediastinal silhouette, hilar contours, and pleural surfaces are normal. There is no pleural effusion or pneumothorax.",1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+53417168,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is present. No acute osseous abnormality is visualized.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+53452091,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53512860,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53555445,The cardiomediastinal and hilar contours are stable. There is no pleural effusion or pneumothorax. The lungs are clear.,2.0,-1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+53565184,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53570653,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53583954,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53663749,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53685384,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53687124,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53737003,"The heart size is normal. The hilar and mediastinal contours are within normal limits. There is no pneumothorax, focal consolidation, or pleural effusion.",1.0,0.0,0.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+53742043,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53774431,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53822449,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53831546,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53836642,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53861171,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53883066,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53886138,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53905237,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53924742,The lungs are clear. There is no pneumothorax or pleural effusion. The cardiomediastinal silhouette is normal.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+53930112,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53943140,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53943549,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53971934,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53984746,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53994053,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+53999109,The cardiomediastinal and hilar contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54001264,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54046592,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54052607,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54128066,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54130139,"The heart is mildly enlarged. The aorta is tortuous. There is no focal consolidation, pleural effusion, or pneumothorax.",2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54137212,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54174765,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54176477,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54186218,"The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54211038,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54214300,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54224166,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54232340,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54259835,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54280501,The lungs are clear. There is no pneumothorax or pleural effusion. The cardiomediastinal silhouette is normal.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54350641,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54353466,The heart is mildly enlarged. The mediastinal and hilar contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54372986,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54375943,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54377872,"The heart is mildly enlarged. The aorta is tortuous. There is mild pulmonary vascular congestion. No focal consolidation, pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.",2.0,2.0,1.0,2.0,2.0,-1.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54389393,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54401838,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54434271,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54479348,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54552753,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54614605,The lungs are clear. The cardiomediastinal silhouette is within normal limits. There is no pleural effusion or pneumothorax.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54644366,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54657781,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54675277,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54694272,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54717370,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54723356,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54733030,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54765591,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54770541,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54772630,"The cardiac silhouette is mildly enlarged. The aorta is tortuous. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54808796,The cardiomediastinal and hilar contours are within normal limits. The lungs are clear. There is no pleural effusion or pneumothorax.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54823444,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54833205,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54844678,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54904335,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54910031,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54922650,"The lungs are well expanded and clear. The cardiomediastinal silhouette, hilar contours, and pleural surfaces are normal. There is no pleural effusion or pneumothorax.",1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+54953521,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54970692,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+54985612,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55027268,"The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. No acute osseous abnormalities.",1.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55048341,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55049183,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55058349,"The cardiac, mediastinal and hilar contours appear stable. The lungs appear clear. There are no pleural effusions or pneumothorax.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55060932,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55062075,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55065784,The cardiac silhouette is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55101327,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55176260,The lungs are clear without focal consolidation. No pleural effusion or pneumothorax is seen. The cardiac and mediastinal silhouettes are unremarkable. No displaced fracture is identified.,1.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,2.0
+55198378,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55227594,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55238105,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55259608,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55316723,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55328340,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55413705,"The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55414814,"The heart is mildly enlarged. The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55430447,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55438661,The heart is mildly enlarged. The mediastinal and hilar contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax. The visualized osseous structures are unremarkable.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55453302,The lung volumes are low. The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55490259,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55494760,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55498995,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55502536,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55511619,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55515719,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55534474,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55570024,"The cardiac silhouette is mildly enlarged. The aorta is tortuous. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55575670,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55588562,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55652987,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55671568,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55698800,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55723242,The heart is mildly enlarged. The mediastinal and hilar contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55728799,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55743226,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55783830,The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55797023,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55801123,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55815964,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55827546,The heart is mildly enlarged. The mediastinal and hilar contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55863688,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55874928,The heart is mildly enlarged. The mediastinal and hilar contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+55907924,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55949339,The lung volumes are low. The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. There is no focal consolidation concerning for pneumonia.,2.0,0.0,1.0,2.0,2.0,2.0,0.0,-1.0,2.0,0.0,0.0,2.0,2.0,2.0
+55972946,The lungs are clear. Cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+55980966,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56013922,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56061315,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56084617,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56097707,"The heart is mildly enlarged. The aorta is tortuous. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56101582,"The heart is mildly enlarged. The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56162656,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56216095,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56218099,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56220925,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56238840,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. There is no pleural effusion or pneumothorax. The lungs appear clear.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56268607,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56291217,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56373683,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56390608,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56426309,The lungs are clear without focal consolidation. No pleural effusion or pneumothorax is seen. The cardiac and mediastinal silhouettes are unremarkable. No displaced fracture is seen.,1.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,2.0
+56451222,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56470564,The patient is status post right upper lobectomy. There is a right chest tube in place. There is a small right apical pneumothorax. There is a small right pleural effusion. There is no left pleural effusion. The cardiomediastinal silhouette is unchanged.,2.0,-1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,1.0
+56495546,The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56524359,"The patient is status post median sternotomy. The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56536310,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56570382,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56599347,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. There is no pleural effusion or pneumothorax. The lungs appear clear.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56617468,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are well expanded and clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56644987,"The heart is mildly enlarged. The aorta is tortuous. There is mild pulmonary vascular congestion. No focal consolidation, pleural effusion or pneumothorax is seen.",2.0,2.0,1.0,2.0,2.0,-1.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56647535,"The cardiac silhouette is mildly enlarged. The aorta is tortuous. There is mild pulmonary vascular congestion. No focal consolidation, pleural effusion or pneumothorax is seen. No acute osseous abnormalities are seen.",2.0,2.0,1.0,2.0,2.0,-1.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56659228,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56661680,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56664513,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56666007,The patient is status post right upper lobectomy. There is a right chest tube in place. There is no pneumothorax. There is no focal consolidation or pleural effusion. The cardiomediastinal silhouette is normal.,1.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,1.0
+56679657,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56680584,The cardiomediastinal and hilar contours are normal. There is no pleural effusion or pneumothorax. The lungs are well expanded and clear.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56693397,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56820999,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56936171,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is present. There are no acute osseous abnormalities.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56961814,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+56970093,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56972683,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56973241,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+56993533,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57024984,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57032173,The heart is mildly enlarged. The mediastinal and hilar contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57032496,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57033562,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57045066,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57048625,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57120453,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57142742,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57149976,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57165304,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57171514,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57198058,The heart is mildly enlarged. The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57210258,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57214202,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57241942,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57261102,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57268374,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57274207,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57281227,The heart is mildly enlarged. The mediastinal and hilar contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57293911,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The lungs are clear. There is no pleural effusion or pneumothorax.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57304510,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. The lungs appear clear. There are no pleural effusions or pneumothorax.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57307723,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57332361,"The cardiac, mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.",1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57373953,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57381701,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57432047,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57433211,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57440750,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57446337,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57447816,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57456610,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57474951,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57517941,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57531802,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57561035,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57571408,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The lungs are clear. There is no pleural effusion or pneumothorax.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57611237,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57624554,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57642788,"The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57661627,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57664750,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. There is no pleural effusion or pneumothorax. The lungs appear clear.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57667222,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57676222,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57693388,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57746739,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57779343,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57787040,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57798512,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57811906,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57840198,"There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal. There is no pulmonary edema.",1.0,0.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57850217,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57881979,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57885384,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57911714,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57913072,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57976739,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+57988469,The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+57996680,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58006032,"The cardiac, mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.",1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58039737,The heart is mildly enlarged. The mediastinal and hilar contours appear unchanged. The lungs appear clear. There are no pleural effusions or pneumothorax.,2.0,1.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58085167,"The cardiac, mediastinal and hilar contours are unchanged. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is present. No acute osseous abnormality is visualized.",2.0,-1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58088717,"The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. No focal consolidation, pleural effusion or pneumothorax is present. No acute osseous abnormalities are visualized.",2.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58093109,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58094975,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58137643,The heart is mildly enlarged. The mediastinal and hilar contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58141048,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58144724,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58167653,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58204843,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58268220,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58324748,The cardiomediastinal and hilar contours are within normal limits. There is no pleural effusion or pneumothorax. The lungs are well expanded and clear.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58340193,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58349137,"A single portable ap upright view of the chest was obtained. The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. No displaced rib fracture is seen.",1.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,2.0
+58367071,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58377417,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58387960,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58449130,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58466988,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58510466,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58517699,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58519194,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58528625,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58556085,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58566283,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58585557,"The patient is status post median sternotomy and cabg. The cardiac, mediastinal and hilar contours are unchanged with the heart size within normal limits. The pulmonary vasculature is normal. No focal consolidation, pleural effusion or pneumothorax is present. There are no acute osseous abnormalities.",2.0,-1.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58585627,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are well expanded and clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58598132,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58635342,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58669896,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58698919,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. There is no pleural effusion or pneumothorax. The lungs appear clear.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58728926,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. There is no pleural effusion or pneumothorax. The lungs appear clear.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58732756,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58739295,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58752096,"The cardiomediastinal silhouette is within normal limits. There is no focal consolidation, pleural effusion, or pneumothorax. There is no pulmonary edema.",1.0,0.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58768954,The lungs are clear without focal consolidation. No pleural effusion or pneumothorax is seen. The cardiac and mediastinal silhouettes are unremarkable. No displaced fracture is seen.,1.0,0.0,2.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,0.0,2.0
+58778519,The patient is status post right upper lobectomy. The right chest tube is in place. There is no pneumothorax. There is no pleural effusion. The left lung is clear. The cardiomediastinal silhouette is stable.,2.0,-1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,1.0
+58786693,The lungs are clear. There is no pneumothorax or pleural effusion. The cardiomediastinal silhouette is normal.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58797209,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58800563,"The cardiac, mediastinal and hilar contours appear stable. There is no pleural effusion or pneumothorax. The lungs appear clear.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58808413,The lungs are clear. The cardiac silhouette is enlarged. The mediastinal silhouette is unremarkable. No pleural effusion or pneumothorax is seen.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58831403,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58833368,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58836797,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58847709,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58858468,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58878473,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58891388,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58891549,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58905647,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58917922,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58936335,The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. The lungs are clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+58971300,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+58971994,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59048499,"The patient is status post median sternotomy and cabg. The cardiac, mediastinal and hilar contours are unchanged, with the heart size within normal limits. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.",2.0,-1.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+59066796,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59067739,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59116935,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59124380,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59146382,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59152117,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59170987,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59175350,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59218667,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59232798,"The cardiac silhouette is mildly enlarged. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. No focal consolidation, pleural effusion or pneumothorax is present. There are no acute osseous abnormalities.",2.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+59234239,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59285132,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59301985,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59339513,"The patient is status post median sternotomy. The cardiac, mediastinal and hilar contours appear unchanged. The lungs appear clear. There are no pleural effusions or pneumothorax.",2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+59371821,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59375093,The heart is normal in size. The mediastinal and hilar contours appear within normal limits. There is no pleural effusion or pneumothorax. The lungs appear clear.,1.0,0.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+59397956,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59488681,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59509358,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59529409,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59535316,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59542064,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities identified.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59566680,"The cardiac, mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.",1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+59607772,"The heart is mildly enlarged. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,0.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+59644344,The cardiomediastinal and hilar contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+59654440,"The lung volumes are low. There is no evidence of pneumonia, pulmonary edema, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is unchanged.",2.0,-1.0,2.0,2.0,2.0,0.0,2.0,0.0,2.0,0.0,0.0,2.0,2.0,2.0
+59657255,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59672442,"The heart is mildly enlarged. The aorta is tortuous. There is no focal consolidation, pleural effusion or pneumothorax.",2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+59716296,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59735304,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59749696,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59763018,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59788853,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59798652,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59808558,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59826830,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59842151,"The heart size is normal. The hilar and mediastinal contours are within normal limits. There is no pneumothorax, focal consolidation, or pleural effusion.",1.0,0.0,0.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+59842808,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59857884,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59870920,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59947539,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59953900,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59966980,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59970698,The heart is mildly enlarged. The mediastinal and hilar contours are normal. There is no pleural effusion or pneumothorax. The lungs are well expanded and clear.,2.0,0.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
+59981256,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59986698,The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.,1.0,0.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+59995358,"The cardiac silhouette is enlarged. The aorta is tortuous. There is no focal consolidation, pleural effusion, or pneumothorax.",2.0,2.0,1.0,2.0,2.0,2.0,0.0,2.0,2.0,0.0,0.0,2.0,2.0,2.0
