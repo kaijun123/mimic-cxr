@@ -1,0 +1,142 @@
+[
+  {
+    "study_id": 50056854,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p17/p17096560/s50056854/92846817-78ec0a2e-50265c40-0e7cad3b-6d912f6e.jpg",
+    "ground_truth": "Left-sided subclavian port-a-cath continues to have its tip in the distal svc, near the cavoatrial junction. Heart remains enlarged, which may reflect cardiomegaly, although pericardial effusion should also be considered. Mediastinal contours are unchanged. There is persistent minimal blunting the left costophrenic angle, which may represent a tiny effusion or chronic pleural thickening. Streaky linear opacities at the left base may reflect areas of atelectasis or scarring. No focal airspace consolidation is seen to suggest pneumonia. No pneumothorax. No evidence of pulmonary edema. Linear density overlying the left upper quadrant is likely external to the patient, but clinical correlation would be recommended.",
+    "prediction": "Ap portable upright view of the chest. A pigtail catheter is seen overlying the left mid lung. The catheter appears to be fissural in location. There is no pneumothorax. There is subcutaneous emphysema within the left chest wall. Otherwise, no significant changes."
+  },
+  {
+    "study_id": 50058197,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p17/p17055995/s50058197/77dab00f-4b12bcda-d0dfea2c-e540bb9e-fe5b3114.jpg",
+    "ground_truth": "New right ij central venous line with tip likely within the right atrium and could be withdrawn to be in the lower svc. Pulmonary vascular congestion.",
+    "prediction": "Ap portable upright view of the chest. Right chest wall port-a-cath is seen with catheter tip in the region of the mid svc. Lung volumes are low. Overlying ekg leads are present. The lungs appear clear. There is no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette appears stable. Imaged osseous structures appear intact."
+  },
+  {
+    "study_id": 50152901,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p17/p17055995/s50152901/55a0e030-4bb997bd-b5d19ede-c9996085-f874501a.jpg",
+    "ground_truth": "Single portable view of the chest. Right picc line is no longer seen. The patient is rotated to the left. The lungs however are clear. Calcified granuloma seen at the right lung base. Cardiomediastinal silhouette is within normal limits. No acute osseous abnormality detected, lower cervical fixation hardware is again seen.",
+    "prediction": "Ap portable semi-upright view of the chest was provided. The lungs are clear. Cardiomediastinal silhouette appears normal. No bony abnormalities are seen."
+  },
+  {
+    "study_id": 50173042,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p16/p16306599/s50173042/b3e3432f-8de35a57-84779127-6d36d4db-a8e9317f.jpg",
+    "ground_truth": "Single ap upright portable view of the chest was obtained. The right costophrenic angle is not fully included on the image. Given this, no definite focal consolidation is seen. There is left base atelectasis. No large pleural effusion or evidence of pneumothorax is seen. The cardiac silhouette is top normal to mildly enlarged. The aorta is somewhat tortuous. No overt pulmonary edema is seen.",
+    "prediction": "Ap portable upright view of the chest. Right chest wall port-a-cath is seen with catheter tip in the region of the mid svc. The catheter appears coiled. Ekg leads are noted overlying the chest. The lung volumes are low. There is mildly prominent vascular markings in the lower lungs, otherwise, the cardiomediastinal silhouette is unremarkable. No effusion or pneumothorax. No convincing evidence for pneumonia though the retrocardiac region is suboptimally assessed. No free air below the right hemidiaphragm."
+  },
+  {
+    "study_id": 50196128,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p10/p10649970/s50196128/1d781883-bb2d3cf0-14fd56ff-c4d0e12f-1143d820.jpg",
+    "ground_truth": "Ap view of the chest. There are low lung volumes. Calcified nodules in the right lung base are unchanged from prior, likely sequelae of prior healed infection. There is bibasilar atelectasis. No focal consolidation, pleural effusion or pneumothorax. The cardiomediastinal silhouette is unremarkable.",
+    "prediction": "Ap upright portable chest radiograph is obtained. There is marked globular cardiomegaly which raises concern for possible pericardial effusion. Diffuse pulmonary edema is also noted. No large pleural effusions are present. No pneumothorax. Bony structures are intact."
+  },
+  {
+    "study_id": 50207397,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p13/p13970691/s50207397/05a331ae-17b42621-787f72cc-ebadd560-6d2586c0.jpg",
+    "ground_truth": "Single ap upright portable view of the chest was obtained. There are low lung volumes, which accentuate the bronchovascular markings. Given this, there appears to be mild central vascular pulmonary engorgement. Soft tissue overlying the lung base likely causes underpenetration. The cardiac and mediastinal silhouettes are stable. No definite focal consolidation or pneumothorax is seen.",
+    "prediction": "Ap upright portable view of the chest was obtained. A single-lead pacemaker is again seen, with lead tip projecting over the right ventricle. Overlying ekg leads are present. Lung volumes are low. There is subtle retrocardiac opacity that could represent atelectasis. Otherwise, the lungs are clear. No large effusion or pneumothorax. The heart size is difficult to assess given low lung volumes, but appears grossly stable. The mediastinal contour is stable. No bony abnormalities."
+  },
+  {
+    "study_id": 50281684,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p11/p11717909/s50281684/dec3e055-ebb80e67-6fe65c6e-de8f0130-d39b8896.jpg",
+    "ground_truth": "Right picc line tip is at the level of the right atrium and should be pulled back 3 cm to secure it position at the cavoatrial junction or above. Right basal atelectasis is unchanged associated with minimal amount of pleural effusion. There is no pneumothorax. No pulmonary congestion .",
+    "prediction": "Ap portable upright view of the chest. Patient is markedly rotated to his right. There is no overt abnormality on this markedly limited exam. No convincing evidence for pneumonia or chf. No large effusion or pneumothorax. Overall heart size appears normal."
+  },
+  {
+    "study_id": 50309094,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p11/p11717909/s50309094/edd6b83c-688ee075-7706abe7-8585945e-88b5d0c7.jpg",
+    "ground_truth": "Lungs: continued parenchymal disease is seen in the right chest which has not altered significantly. There is also left basilar disease. Pleura: likely there is a right pleural effusion is well as a small left pleural effusion. Mediastinum: surgical clips noted in the mediastinum heart: the heart is not enlarged. Osseous structures: the osseous structures are normal for age. Additional findings: endotracheal tube is in the region of the thoracic inlet. Left-sided picc line terminates in the satisfactory position. A new right internal jugular catheter terminates in the right atrium. Nasogastric tube some stomach. Monitor leads noted. There is no pneumothorax.",
+    "prediction": "Portable ap chest radiograph. Right-sided chest tube has been placed and extends from the base of the neck to the base of the mediastinum. There is a small residual lateral pneumothorax. Extensive subcutaneous emphysema is present in the neck and right chest wall. There is right hilar prominence likely due to a prominent right pulmonary artery. The right lung is otherwise clear. Left lung is not well visualized but appears clear as well."
+  },
+  {
+    "study_id": 50340409,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p18/p18007398/s50340409/3eeeb2ac-9bca9174-549fbb9e-0dad8292-81377269.jpg",
+    "ground_truth": "The patient is intubated, the tip of the endotracheal tube projects 4 cm above the carina. To right and 1 left-sided chest tube are in place. Nasogastric tube shows a normal course. Left retrocardiac atelectasis. Minimal right pleural effusion. No visible pneumothorax. Non displaced rib fractures described on the ct examination from ___, 19:33, are not visualized on the radiograph.",
+    "prediction": "Ap portable upright view of the chest. Vascular congestion and mild edema is noted. There is no large effusion or pneumothorax. The cardiomediastinal silhouette is normal. Imaged osseous structures are intact."
+  },
+  {
+    "study_id": 50411452,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p19/p19366448/s50411452/da94e05c-941be1ba-f5996c0b-75dd288f-278d8503.jpg",
+    "ground_truth": "There are low lung volumes. Cardiac size is top-normal accentuated by the projection of the low lung volumes. Lines and tubes are in unchanged standard position. There is mild vascular congestion. Increasing bibasilar opacities are likely atelectasis. Atelectasis in the perihilar regions bilaterally are unchanged",
+    "prediction": "Lung volumes are low. Heart size is mildly enlarged. The mediastinal and hilar contours are unremarkable. Pulmonary vasculature is not engorged. Apart from minimal atelectasis in the lung bases, the lungs are clear without focal consolidation. No pleural effusion or pneumothorax is present. There are no acute osseous abnormalities."
+  },
+  {
+    "study_id": 50421811,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p10/p10522265/s50421811/d5aedb5c-3e300b8e-4ab8aa68-066f67dc-cfe7bd84.jpg",
+    "ground_truth": "Mild to moderate pulmonary edema, with a basal predominance, is new probably accompanied by small pleural effusions. Heart size is top-normal not appreciably changed.",
+    "prediction": "Ap portable upright view of the chest. Elevation of the right hemidiaphragm is noted. Subpleural reticulation is better assessed on same-day ct exam. Lungs are otherwise clear. Cardiomediastinal silhouette is unremarkable. No bony abnormalities."
+  },
+  {
+    "study_id": 50422579,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p19/p19598137/s50422579/c5157006-1a73eeaf-efe1fd1c-7c18314b-7183f206.jpg",
+    "ground_truth": "Exam is limited by significant rotation. Heart size is enlarged. The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.",
+    "prediction": "Portable ap upright chest radiograph obtained. Lung volumes are low. There is subtle opacity at the medial right lung base which could represent a confluence of bronchovasculature, though in the correct clinical setting, an early consolidation is not excluded. Elsewhere, the lungs are clear. The heart and mediastinal contour appears normal. The imaged osseous structures appear intact."
+  },
+  {
+    "study_id": 50484024,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p16/p16768418/s50484024/695acea4-7d4be71d-9243cd6c-c90f68cc-cf5d3a75.jpg",
+    "ground_truth": "Ap view of the chest. The lungs are clear. Cardiomediastinal silhouette is within normal limits. No acute osseous abnormality detected.",
+    "prediction": "A left-sided picc line has been retracted to the mid svc after initial low position on ___. The lungs are well inflated and clear. There is no focal consolidation, effusion, or pneumothorax. Cardiomediastinal silhouette is stable."
+  },
+  {
+    "study_id": 50557253,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p13/p13171410/s50557253/58597ddf-5c95d260-4911eef3-5907f696-f132c629.jpg",
+    "ground_truth": "There is expected mild postoperative cardiomediastinal silhouette widening. There is mild left basilar atelectasis. No large effusion, pneumothorax or consolidation. Mild pulmonary vascular congestion, without edema. An endotracheal tube tip terminates approximately 5 cm above the carina. A swan-ganz catheter terminates in the right main pulmonary artery.",
+    "prediction": "Ap portable supine view of the chest. Midline sternotomy wires and mediastinal clips are again noted. Overlying ekg leads are present. Lungs are clear. There is no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. Imaged osseous structures are intact."
+  },
+  {
+    "study_id": 50564703,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p13/p13196707/s50564703/1ad7b193-ec7866e0-b028d0ab-58e2fd05-8da28ddd.jpg",
+    "ground_truth": "2 catheters are seen projecting over the inferior aspect of the heart. There is a right sided central venous line with the distal lead tip at the cavoatrial junction. Svc stent is also seen. There are low lung volumes due to poor inspiratory effort. There is some elevation of the left hemidiaphragm. There is again seen numerous parenchymal nodules better assessed on the prior ct scan.",
+    "prediction": "Ap portable upright view of the chest. Port-a-cath is seen projecting over the upper right chest with catheter extending into the right ij and tip projecting over the right heart border. Lung volumes are low. Lungs appear grossly clear. No large effusion or pneumothorax. Cardiomediastinal silhouette is grossly unremarkable. Bony structures are intact."
+  },
+  {
+    "study_id": 50572758,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p17/p17257394/s50572758/d6f297e0-277785b9-0dade959-c098d1a4-1d5c202a.jpg",
+    "ground_truth": "Heart size is normal with mild tortuosity of thoracic aorta. Hilar contours are unremarkable. Lungs are clear. Pleural surfaces are clear without large effusion or pneumothorax.",
+    "prediction": "Portable ap upright view of the chest provided. Lung volumes are low. Overlying ekg leads are present. There is subtle opacity at the right lung base which could represent atelectasis. No convincing signs of pneumonia or edema. No large effusion or pneumothorax. Heart size appears within normal limits. Bony structures are intact. No free air below the right hemidiaphragm."
+  },
+  {
+    "study_id": 50591741,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p15/p15902493/s50591741/41cd0cf2-1993dfdd-7f6bf2e5-a1f49826-59bd4a84.jpg",
+    "ground_truth": "A tracheostomy catheter appears in standard unchanged position. A catheter overlying the right mid clavicular line appears similar to prior examination, possibly a vp shunt. Elevation of the right hemidiaphragm is unchanged from prior. Linear bibasilar opacities are unchanged and likely reflect atelectasis. No confluent consolidation is identified. A significant widening of the right paratracheal stripe corresponds with a known large thyroid goiter, better characterized on prior chest ct. Leftward tracheal deviation appears stable. The remainder of the mediastinal and hilar contours are within normal limits for age. The heart size is borderline or slightly enlarged. There is pneumothorax.",
+    "prediction": "Ap portable upright view of the chest. There is no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. Imaged osseous structures are intact."
+  },
+  {
+    "study_id": 50677909,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p11/p11307058/s50677909/9f2507a2-f8ed6c9f-657277ba-664fb54d-c23684b6.jpg",
+    "ground_truth": "Up several lines are projecting over the chest, most of them are external except for central venous line terminating in the level of lower svc. Heart size is unchanged, normal in size. Severely dilated and tortuous descending thoracic aorta is consistent with known aneurysm i tip dissection. Lungs are essentially clear with no evidence of focal consolidation to suggest infectious process",
+    "prediction": "Ap portable upright view of the chest. Patient is markedly rotated to his right. There is no overt abnormality on this markedly limited exam. No convincing evidence for pneumonia or chf. Strict correlation with the department of radiology is requested due to the technical limitations of this exam."
+  },
+  {
+    "study_id": 50701407,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p10/p10649970/s50701407/a1c8c7ce-7da30482-9513e5d6-e9c94ca0-4ce8696a.jpg",
+    "ground_truth": "Lung volumes remain somewhat low. There are multiple small calcified nodular opacities in the right mid and lower lungs, which are unchanged. No pulmonary edema or airspace consolidation to suggest an acute infectious process. No pneumothorax or pleural effusions. Overall cardiac and mediastinal contours are stable. No pneumothorax.",
+    "prediction": "There is a new right lower lobe infiltrate. There is also opacity in the retrocardiac region. There is a small right effusion. There is pulmonary vascular redistribution with ill-defined vasculature. The heart is mildly enlarged. The ng tube tip is in the proximal stomach"
+  },
+  {
+    "study_id": 50703372,
+    "prompt": "<image>\nAnalyze the Chest X-ray image above and provide your findings.",
+    "image": "/home/r11kaijun/physionet.org/files/mimic-cxr-jpg/2.1.0/files/p11/p11888614/s50703372/65a8e3b5-8552ea89-9bc2e215-fd42bed9-e469687f.jpg",
+    "ground_truth": "Et tube tip is 3 cm above the carinal. Ng tube tip is in the stomach. Pulmonary edema is substantial, bilateral associated with large bilateral pleural effusions. No evidence of pneumothorax expressed",
+    "prediction": "A right-sided picc line ends in the lower svc. There is no pneumothorax. The lungs are clear with no focal consolidation or pleural effusion. The heart size is normal. The mediastinal contours are normal."
+  }
+]
