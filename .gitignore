@@ -1,0 +1,4 @@
+/raw_data
+/files
+/validation-output/***/**/*.csv
+/test-output/***/**/*.csv
